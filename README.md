@@ -136,5 +136,5 @@ Follow along — a new commit goes up every day.
 
 ## 🧑‍💻 Author
 
-Built by **[Your Name]** — [github.com/sanjay7978](https://github.com/sanjay7978)
+Built by **[R.Sanjay]** — [github.com/sanjay7978](https://github.com/sanjay7978)
 
